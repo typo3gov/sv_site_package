@@ -32,6 +32,7 @@ page {
     includeCSS {
         main = https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css
         main.external = 1
+        site = EXT:sv_site_package/Resources/Public/Css/main.css
     }
     includeJSFooterlibs {
         jquery = https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
