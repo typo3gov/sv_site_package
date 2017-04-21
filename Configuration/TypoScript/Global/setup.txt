@@ -6,15 +6,15 @@ page {
     10 {
         templateName = Default
         templateRootPaths {
-            0 = EXT:example_package/Resources/Private/Templates/Page/
+            0 = EXT:sv_site_package/Resources/Private/Templates/Page/
             1 = {$page.template.templateRootPath}
         }
         partialRootPaths {
-            0 = EXT:example_package/Resources/Private/Partials/Page/
+            0 = EXT:sv_site_package/Resources/Private/Partials/Page/
             1 = {$page.template.partialRootPath}
         }
         layoutRootPaths {
-            0 = EXT:example_package/Resources/Private/Layouts/Page/
+            0 = EXT:sv_site_package/Resources/Private/Layouts/Page/
             1 = {$page.template.layoutRootPath}
         }
         variables {
